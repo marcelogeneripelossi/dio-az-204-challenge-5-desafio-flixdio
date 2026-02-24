@@ -1,1 +1,1 @@
-# dio-az-204-challenge-5-desafio-flixdio
+# Criando um Gerenciador de Catálogos da Netflix com Azure Functions e Banco de Dados
